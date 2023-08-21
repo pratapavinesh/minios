@@ -19,7 +19,7 @@ MiniOS is designed to provide you with hands-on experience in understanding oper
 
 Follow these steps to get started with the MiniOS project:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/pratapavinesh/minios.git`
 2. Navigate to the project directory: `cd MiniOS`
 3. Install dependencies (if any): `npm install`
 4. Build the project (if required): `npm build`
