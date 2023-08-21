@@ -15,23 +15,6 @@ MiniOS is designed to provide you with hands-on experience in understanding oper
 - Interactive Simulations
 - Docker and QEMU for Setup
 
-## Getting Started
-
-Follow these steps to get started with the MiniOS project:
-
-1. Clone the repository: `git clone https://github.com/pratapavinesh/minios.git`
-2. Navigate to the project directory: `cd MiniOS`
-3. Install dependencies (if any): `npm install`
-4. Build the project (if required): `npm build`
-
-## Running Simulations
-
-To run the MiniOS simulation, follow these steps:
-
-1. Make sure you have Docker and QEMU installed on your system.
-2. Navigate to the simulation directory: `cd simulation`
-3. Run the simulation: `./run.sh`
-
 ## User Interface
 
 MiniOS provides a basic command-line interface for interaction. You can use the provided commands to explore various aspects of operating systems and perform simulated activities.
